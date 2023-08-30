@@ -1,0 +1,27 @@
+[
+	{
+		"id": 1,
+		"greeting": "Hello!",
+		"cringeLevel": 0.0
+	},
+	{
+		"id": 2,
+		"greeting": "What’s shakin’, bacon?",
+		"cringeLevel": 0.5
+	},
+	{
+		"id": 3,
+		"greeting": "WAZZAAAAAAAAP?!",
+		"cringeLevel": 1.0
+	},
+	{
+		"id": 4,
+		"greeting": "Hi friends!",
+		"cringeLevel": 0.3
+	},
+	{
+		"id": 5,
+		"greeting": "Hail and well met!",
+		"cringeLevel": 0.8
+	}
+]
